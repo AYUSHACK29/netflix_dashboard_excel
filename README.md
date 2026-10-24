@@ -11,4 +11,5 @@ An interactive Netflix content analysis dashboard made with MS Excel to explore 
 2. Pivot Tables
 3. Excel Charts and Formulas
 
-
+**Dashboard Preview**
+https://github.com/AYUSHACK29/netflix_dashboard_excel/blob/main/Netflix_Dashboard.png
